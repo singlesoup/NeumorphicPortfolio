@@ -1,6 +1,6 @@
-# skeuportfolio
+# NeumorphicPortfolio
 
-A new Flutter project.
+A new Flutter project, which implements Neumorphic design or Soft UI. And also implemeneted 'Dark Mode'.
 
 ## Getting Started
 
