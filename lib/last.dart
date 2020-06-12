@@ -29,7 +29,7 @@ class LastPart extends StatelessWidget {
             SizedBox(width: 10),
             RowElements(
               icon: Feather.phone,
-              text: '8850866281',
+              text: '12345789',
             ),
           ],
         ),
